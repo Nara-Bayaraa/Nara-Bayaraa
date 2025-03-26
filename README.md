@@ -33,7 +33,6 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge)](mailto:Nara.byr@gmail.com)
 <[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge)](mailto:NaraB.QA@gmail.com)
 
 ## GitHub Stats
