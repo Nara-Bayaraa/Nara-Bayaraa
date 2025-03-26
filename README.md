@@ -14,10 +14,11 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 ---
 ## Tech Stack
 ![selenium](https://github.com/user-attachments/assets/b0f68cb1-0b27-42fa-80d3-0eba949f2ef0)
+<img src="https://img.shields.io/badge/Rest--Assured-007EC6?style=for-the-badge&logo=rest-assured&logoColor=white" alt="Rest-Assured" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" alt="Cypress" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-<img src="https://img.shields.io/badge/Rest--Assured-007EC6?style=for-the-badge&logo=rest-assured&logoColor=white" alt="Rest-Assured" /> 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
@@ -33,11 +34,11 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 ## Contact Me
 
 <a href="www.linkedin.com/in/narmandakh-bayaraa">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="95" height="30">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="95" height="25">
 </a>
 
 <a href="mailto:NaraB.QA@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="95" height="30">
+  <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="95" height="25">
 </a>
 
 ## GitHub Stats
