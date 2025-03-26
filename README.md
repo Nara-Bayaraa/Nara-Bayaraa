@@ -44,6 +44,8 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) &nbsp; [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=mail)](mailto:NaraB.QA@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge)](mailto:NaraB.QA@gmail.com)
+
 ## GitHub Stats
 
 [![Nara-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-B&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
