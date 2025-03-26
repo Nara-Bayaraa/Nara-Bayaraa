@@ -1,4 +1,4 @@
-![selenium](https://github.com/user-attachments/assets/b0f68cb1-0b27-42fa-80d3-0eba949f2ef0)![quote1](https://github.com/user-attachments/assets/44986012-0528-439b-9bda-207004813484)
+![quote1](https://github.com/user-attachments/assets/5bdc6f5b-f804-4647-a8d2-66b75507c5be)
 # 👋 Hi, I'm Nara!
 ---
 ![](https://komarev.com/ghpvc/?username=Nara-B&color=orange&style=flat-square)
@@ -13,7 +13,7 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 
 ---
 ## Tech Stack
-
+![selenium](https://github.com/user-attachments/assets/b0f68cb1-0b27-42fa-80d3-0eba949f2ef0)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" alt="Cypress" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -32,13 +32,12 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-narmandakh-bayaraa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/narmandakh-bayaraa)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](NaraB.QA@gmail.com)
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Nara-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-B&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned Repositories
 
