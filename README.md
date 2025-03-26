@@ -36,8 +36,7 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 <a href="www.linkedin.com/in/narmandakh-bayaraa">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="95" height="30">
 </a>
-
-[<img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="95" height="30">](NaraB.QA@gmail.com)
+[<img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="95" height="30">](mailto:NaraB.QA@gmail.com)
 
 ## GitHub Stats
 
