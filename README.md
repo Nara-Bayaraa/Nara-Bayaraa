@@ -33,18 +33,7 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/narmandakh-bayaraa" target="_blank">
-  <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">LinkedIn</button>
-</a>
-<a href="mailto:NaraB.QA@gmail.com" target="_blank">
-  <button style="background-color: #FF5733; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Email</button>
-</a>
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=mail)](mailto:NaraB.QA@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) &nbsp; [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=mail)](mailto:NaraB.QA@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge)](mailto:NaraB.QA@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge)](mailto:Nara.byr@gmail.com)
 
 ## GitHub Stats
 
