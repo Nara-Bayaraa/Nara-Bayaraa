@@ -38,7 +38,7 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 </a>
 
 <a href="mailto:NaraB.QA@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" width="95" height="30">
+  <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="95" height="30">
 </a>
 
 ## GitHub Stats
