@@ -26,6 +26,7 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
 <img src="https://img.shields.io/badge/Chrome%20DevTools-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome DevTools" />
+![TESTRAILS](https://github.com/user-attachments/assets/c8fd1aa4-eca9-4ba4-b758-c379bca18200)
 
 ## Contact Me
 
