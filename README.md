@@ -12,7 +12,7 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 * Fun fact: I love solving puzzles and diving into new technologies!
 
 ---
-##📊 Tech Stack
+## Tech Stack
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
