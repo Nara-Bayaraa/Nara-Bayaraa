@@ -2,6 +2,8 @@
 # 👋 Hi, I'm Nara!
 
 ![](https://komarev.com/ghpvc/?username=Nara-B&color=orange&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=Nara-B&color=orange&style=flat-square" width="150">
+
 ---
 I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experience in quality assurance, copywriting, and improving user experiences. I'm passionate about identifying and resolving defects to deliver high-quality products that meet and exceed customer expectations.
 
