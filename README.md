@@ -38,11 +38,11 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 
-##📬 Contact Me
+## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge)](mailto:NaraB.QA@gmail.com)
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 
 [![Nara-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-B&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
