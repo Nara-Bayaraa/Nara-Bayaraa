@@ -45,7 +45,7 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5+ years of experie
 
 ## 📊 GitHub Stats
 
-[![Nara-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-B&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Nara-Bayaraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-Bayaraa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned Repositories
 
