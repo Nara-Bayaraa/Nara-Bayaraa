@@ -19,7 +19,6 @@ Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of 
 ![selenium](https://github.com/user-attachments/assets/b0f68cb1-0b27-42fa-80d3-0eba949f2ef0)
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Rest--Assured-007EC6?style=for-the-badge&logo=rest-assured&logoColor=white" alt="Rest-Assured" /> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
@@ -33,6 +32,7 @@ Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of 
 <img src="https://img.shields.io/badge/Page%20Object%20Model-6A0DAD?style=for-the-badge&logo=selenium&logoColor=white" alt="Page Object Model" />
 <img src="https://img.shields.io/badge/JSON-2ECC71?style=for-the-badge&logoColor=white" alt="JSON" />
 <img src="https://img.shields.io/badge/TestNG-C40C0C?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
+<img src="https://img.shields.io/badge/Rest--Assured-007EC6?style=for-the-badge&logo=rest-assured&logoColor=white" alt="Rest-Assured" /> 
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
 <img src="https://img.shields.io/badge/REST%20API-007ACC?style=for-the-badge&logoColor=white" alt="REST API" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
