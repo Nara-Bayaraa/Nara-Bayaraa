@@ -17,6 +17,7 @@ Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of 
 ## 🚀 Tech Stack
 
 ![selenium](https://github.com/user-attachments/assets/b0f68cb1-0b27-42fa-80d3-0eba949f2ef0)
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
@@ -38,7 +39,7 @@ Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of 
 <img src="https://img.shields.io/badge/Appium-752BEA?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
 
 ## 📬 Contact Me
 
