@@ -14,7 +14,7 @@ Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of 
 * I love solving puzzles and diving into new technologies!
 
 ---
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
 ![selenium](https://github.com/user-attachments/assets/b0f68cb1-0b27-42fa-80d3-0eba949f2ef0)
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
