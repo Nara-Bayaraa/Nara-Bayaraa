@@ -7,7 +7,7 @@
 Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of experience in comprehensive software quality assurance. My expertise spans manual and automated testing, including detailed test cases, bug reports, API testing collections, and proficiency in UI and Database testing.
 
 ---
-# 🚀 What I Do
+## 🚀 What I Do
 * I'm currently working on projects focused on API testing, UI testing
 * Learning more about Test Automation Frameworks and CI/CD pipelines.
 * Ask me about API Testing, Automation, or Manual Testing.
