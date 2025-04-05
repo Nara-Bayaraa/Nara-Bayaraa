@@ -40,15 +40,17 @@ Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of 
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 
-
+---
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge)](mailto:NaraB.QA@gmail.com)
 
+---
 ## 📊 GitHub Stats
 
 [![Nara-Bayaraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-Bayaraa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 ## Pinned Repositories
 
 * [Certificates](https://github.com/Nara-B/Certificates.git)
