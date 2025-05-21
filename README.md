@@ -56,4 +56,4 @@ Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of 
 * [Certificates](https://github.com/Nara-B/Certificates.git)
 * [Swag-labs UI Automation Testing](https://github.com/Nara-Bayaraa/Swag-Labs.git)
 * [Real-Estate UI and API Automation Testing](https://github.com/Nara-Bayaraa/Real-Estate-Project.git)
-* [Coding_Challenges JavaScript] (https://github.com/Nara-Bayaraa/Coding-Challenges.git)
+* [Coding-Challenges JavaScript] (https://github.com/Nara-Bayaraa/Coding-Challenges.git)
