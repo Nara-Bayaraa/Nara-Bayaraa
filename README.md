@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=Nara-B&color=orange&style=flat-square" width="150">
 
 ---
-Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of experience in comprehensive software quality assurance. My expertise spans manual and automated testing, including detailed test cases, bug reports, API testing collections, and proficiency in UI and Database testing.
+Welcome to my QA Engineer Portfolio! This repository showcases my 5+ years of experience in comprehensive software quality assurance. My expertise spans manual and automated testing, including detailed test cases, bug reports, API testing collections, and proficiency in UI and Database testing.
 
 ---
 ## 🚀 What I Do
@@ -56,5 +56,6 @@ Welcome to my QA Engineer Portfolio! This repository showcases my 5.5+ years of 
 * [Certificates](https://github.com/Nara-B/Certificates.git)
 * [Swag-labs UI Automation Testing](https://github.com/Nara-Bayaraa/Swag-Labs.git)
 * [Real-Estate UI and API Automation Testing](https://github.com/Nara-Bayaraa/Real-Estate-Project.git)
+* [Petstore Api Automation Testing](https://github.com/Nara-Bayaraa/Petstore-Api-Automation-Cypress.git)
 * [Coding-Challenges JavaScript](https://github.com/Nara-Bayaraa/Coding-Challenges.git)
   
