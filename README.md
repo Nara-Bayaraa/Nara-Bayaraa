@@ -8,10 +8,21 @@ Welcome to my QA Engineer Portfolio! This repository showcases my 5+ years of ex
 
 ---
 ## 🚀 What I Do
-* I'm currently working on projects focused on API testing, UI testing
-* Learning more about Test Automation Frameworks and CI/CD pipelines.
-* Ask me about API Testing, Automation, or Manual Testing.
-* I love solving puzzles and diving into new technologies!
+
+* Ensure software quality:
+Design and execute test strategies to make sure products meet functional and business requirements.
+* Automate testing workflows:
+Develop and maintain automated test suites to increase efficiency, coverage, and reliability.
+* Perform manual and exploratory testing:
+Investigate edge cases, usability, and user experience to catch issues automation might miss.
+* Create and manage test data:
+Build, organize, and maintain datasets for thorough and repeatable testing.
+* Integrate with CI/CD pipelines:
+Implement and monitor automated testing as part of continuous integration and delivery processes.
+* Report bugs clearly:
+Identify, document, and communicate defects with actionable steps for faster resolution.
+
+
 
 ---
 ## ⚙️ Tech Stack
