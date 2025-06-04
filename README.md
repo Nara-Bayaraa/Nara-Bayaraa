@@ -67,9 +67,9 @@ Identify, document, and communicate defects with actionable steps for faster res
 ---
 ## Pinned Repositories
 
-* [Certificates](https://github.com/Nara-B/Certificates.git)
+* [My Certificates](https://github.com/Nara-B/Certificates.git)
 * [Swag-labs UI Automation Testing](https://github.com/Nara-Bayaraa/Swag-Labs.git)
 * [Real-Estate UI and API Automation Testing](https://github.com/Nara-Bayaraa/Real-Estate-Project.git)
-* [Petstore Api Automation Testing](https://github.com/Nara-Bayaraa/Petstore-Api-Automation-Cypress.git)
+* [Petstore-Api Automation Testing](https://github.com/Nara-Bayaraa/Petstore-Api-Automation-Cypress.git)
 * [Coding-Challenges JavaScript](https://github.com/Nara-Bayaraa/Coding-Challenges.git)
   
