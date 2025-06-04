@@ -4,9 +4,11 @@
 <img src="https://komarev.com/ghpvc/?username=Nara-B&color=orange&style=flat-square" width="150">
 
 ---
-Welcome to my QA Engineer Portfolio! This repository showcases my 5+ years of experience in comprehensive software quality assurance. My expertise spans manual and automated testing, including detailed test cases, bug reports, API testing collections, and proficiency in UI and Database testing.
+
+Welcome to my QA Engineer Portfolio! This repository showcases my 5+ years of experience in comprehensive software quality assurance. 
 
 ---
+
 ## 🚀 What I Do
 
 * Ensure software quality:
@@ -25,6 +27,7 @@ Identify, document, and communicate defects with actionable steps for faster res
 
 
 ---
+
 ## ⚙️ Tech Stack
 
 ![selenium](https://github.com/user-attachments/assets/b0f68cb1-0b27-42fa-80d3-0eba949f2ef0)
