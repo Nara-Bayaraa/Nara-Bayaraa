@@ -33,6 +33,8 @@ Identify, document, and communicate defects with actionable steps for faster res
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
+
 ## ⚙️ Tech Stack
 
 ![selenium](https://github.com/user-attachments/assets/b0f68cb1-0b27-42fa-80d3-0eba949f2ef0)
