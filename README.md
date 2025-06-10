@@ -55,11 +55,6 @@ Identify, document, and communicate defects with actionable steps for faster res
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 
 ---
-## 📬 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narmandakh%20Bayaraa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narmandakh-bayaraa) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge)](mailto:NaraB.QA@gmail.com)
-
----
 ## 📊 GitHub Stats
 
 [![Nara-Bayaraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-Bayaraa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
