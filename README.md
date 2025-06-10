@@ -27,6 +27,11 @@ Identify, document, and communicate defects with actionable steps for faster res
 
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## ⚙️ Tech Stack
 
