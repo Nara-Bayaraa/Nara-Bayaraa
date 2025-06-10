@@ -5,7 +5,7 @@
 
 ---
 
-Welcome to my QA Engineer Portfolio! This repository showcases my 5+ years of experience in comprehensive software quality assurance. 
+Welcome to my QA Engineer Portfolio. This repository highlights over five years of experience in software quality assurance, with a focus on test automation and process improvement.
 
 ---
 
