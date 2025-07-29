@@ -92,7 +92,7 @@ Here you’ll find:
 - **Automated Test Scripts**
 
 - **Bug Reports**
-- 
+  
 - **Postman Collection** 
 real state  - Import the .json files directly into your Postman app to see how I handle API testing.
   
