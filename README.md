@@ -86,7 +86,7 @@ Here you’ll find:
 [![Nara-Bayaraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-Bayaraa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-## Pinned Repositories
+## 🎯 Pinned Repositories
 
 ## [Certifications](https://github.com/Nara-B/Certificates.git)
 ## [Parabank-UI-Api-Automation Testing](https://github.com/Nara-Bayaraa/Parabank-UI-Api-Automation.git)
