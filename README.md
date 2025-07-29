@@ -88,7 +88,7 @@ Here you’ll find:
 ---
 ## Example of My Work
 - **Manual Test Cases**  
-
+--
 
 - **Automated Test Scripts**
 
