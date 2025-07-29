@@ -10,7 +10,7 @@ This space highlights my experience in software quality assurance, showcasing va
 
 
 ### About Me
-I'm Nara Bayaraa, a passionate QA Engineer with 5+ years of experience ensuring high-quality software across various industries.
+I'm **Nara Bayaraa**, a passionate QA Engineer with 5+ years of experience ensuring high-quality software across various industries.
 
 
 ---
