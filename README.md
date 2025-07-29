@@ -86,9 +86,8 @@ Here you’ll find:
 [![Nara-Bayaraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-Bayaraa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-## Example of My Work
+## 💻 Example of My Work
 - **Manual Test Cases**  
---
 
 - **Automated Test Scripts**
 
