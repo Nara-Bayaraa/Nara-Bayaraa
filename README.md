@@ -45,6 +45,11 @@ Here you’ll find:
 - [LinkedIn](https://www.linkedin.com/in/nara-bayaraa/)
 - [Email](mailto:narab.qa@gmail.com)
 
+- ## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 ---
 <!-- Snake Game Repo View -->
 
