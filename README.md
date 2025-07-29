@@ -6,7 +6,12 @@
 ---
 
 ### Welcome to my **QA Automation Engineer Portfolio**!  
+This space highlights my experience in software quality assurance, showcasing various test cases, bug reports, and API testing collections to demonstrate my skills in manual and automated testing.
+
+
+# About Me
 With 5+ years of experience in software quality assurance, I specialize in **test automation, process optimization, and delivering reliable software releases**.
+
 
 ---
 
