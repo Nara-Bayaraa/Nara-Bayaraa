@@ -40,7 +40,10 @@ Here you’ll find:
 - **Problem-solving approach:** A QA mindset focused on risk, coverage, and continuous improvement.
 
 ---
+## 📫 Let’s Connect
 
+- [LinkedIn](https://www.linkedin.com/in/nara-bayaraa/)
+- [Email](mailto:narab.qa@gmail.com)
 
 ---
 <!-- Snake Game Repo View -->
