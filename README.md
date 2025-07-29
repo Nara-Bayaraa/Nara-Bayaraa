@@ -35,7 +35,7 @@ With 5+ years of experience in software quality assurance, I specialize in **tes
 ## 🌟 About This Portfolio
 
 Here you’ll find:
-- **Highlighted projects:** Automation frameworks, coding challenges, API tests, and more.
+- **Highlighted projects:** Automation frameworks, Coding challenges, API tests, and more.
 - **Code samples:** Real-world examples from professional and personal projects.
 - **Problem-solving approach:** A QA mindset focused on risk, coverage, and continuous improvement.
 
