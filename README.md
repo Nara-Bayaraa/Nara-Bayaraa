@@ -1,11 +1,11 @@
 ![quote1](https://github.com/user-attachments/assets/5bdc6f5b-f804-4647-a8d2-66b75507c5be)
-👋 Hi there, I'm Nara!
+# 👋 Hi there, I'm Nara!
 
 <img src="https://komarev.com/ghpvc/?username=Nara-B&color=green&style=flat-square" width="150">
 
 ---
 
-Welcome to my **QA Automation Engineer Portfolio**!  
+### Welcome to my **QA Automation Engineer Portfolio**!  
 With 5+ years of experience in software quality assurance, I specialize in **test automation, process optimization, and delivering reliable software releases**.
 
 ---
