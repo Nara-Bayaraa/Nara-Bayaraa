@@ -10,7 +10,7 @@ This space highlights my experience in software quality assurance, showcasing va
 
 
 ### About Me
-With 5+ years of experience in software quality assurance, I specialize in **test automation, process optimization, and delivering reliable software releases**.
+I'm Nara Bayaraa, a passionate QA Engineer with 5+ years of experience ensuring high-quality software across various industries.
 
 
 ---
