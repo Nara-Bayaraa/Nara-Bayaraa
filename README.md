@@ -108,7 +108,7 @@ real state  - Import the .json files directly into your Postman app to see how I
 
 ## [Certifications](https://github.com/Nara-B/Certificates.git)
 ## [Parabank-Selenium-Java-TestNG-Cucumber](https://github.com/Nara-Bayaraa/Parabank-Selenium-Java-TestNG-Cucumber)
-## [Parabank-UI-Api-Automation Testing](https://github.com/Nara-Bayaraa/Parabank-UI-Api-Automation.git)
+## [Parabank-UI-Api-Cypress-JavaScript-Node.js Automation Testing](https://github.com/Nara-Bayaraa/Parabank-UI-Api-Automation.git)
 ## [Swag-Labs UI Automation Testing](https://github.com/Nara-Bayaraa/Swag-Labs.git)
 ## [Real-Estate UI and API Automation Testing](https://github.com/Nara-Bayaraa/Real-Estate-Project.git)
 ## [Petstore-Api Automation Testing](https://github.com/Nara-Bayaraa/Petstore-Api-Automation-Cypress.git)
