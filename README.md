@@ -4,36 +4,15 @@
 <img src="https://komarev.com/ghpvc/?username=Nara-B&color=green&style=flat-square" width="150">
 
 ---
+I build production-ready automation frameworks from scratch using Cypress, Selenium, Java, and JavaScript. My work covers end-to-end UI automation, REST API testing, mobile QA, CI/CD integration, and hybrid BDD frameworks.
 
-### Welcome to my **QA Automation Engineer Portfolio**!  
-This space highlights my experience in software quality assurance, showcasing various test cases, bug reports, and API testing collections to demonstrate my skills in manual and automated testing.
+I hold certifications in ISTQB, AWS Cloud Practitioner, Google Data Analytics, and Google AI Essentials.
+
+## Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nara-bayaraa/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narab.qa@gmail.com)
 
 
-### About Me
-I'm **Nara Bayaraa**, a passionate QA Engineer with 5+ years of experience ensuring high-quality software across various industries.
-
-
----
-
-## 🚀 What I Do
-
-- **Champion Software Quality:**  
-  Design and execute comprehensive test strategies to ensure products meet both functional and business requirements.
-
-- **Automate Testing Workflows:**  
-  Develop and maintain robust automated test suites to improve efficiency, coverage, and reliability across releases.
-
-- **Manual & Exploratory Testing:**  
-  Investigate edge cases, usability, and user experience issues to catch what automation might miss.
-
-- **Test Data Management:**  
-  Build, organize, and maintain datasets for thorough, repeatable, and realistic testing.
-
-- **CI/CD Integration:**  
-  Implement and monitor automated testing within CI/CD pipelines to support continuous delivery and rapid feedback.
-
-- **Clear Bug Reporting:**  
-  Identify, document, and communicate defects with actionable steps for faster resolution and improved collaboration.
 
 ---
 
@@ -45,10 +24,9 @@ Here you’ll find:
 - **Problem-solving approach:** A QA mindset focused on risk, coverage, and continuous improvement.
 
 ---
-## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nara-bayaraa/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:narab.qa@gmail.com)
+
+
 
 ---
 <!-- Snake Game Repo View -->
@@ -59,7 +37,19 @@ Here you’ll find:
 
 ---
 
-## ⚙️ Tech Stack
+## Core Tech Stack
+
+**Automation:** Cypress, Selenium, Appium, TestNG, Cucumber (BDD), Page Object Model
+
+**Languages:** JavaScript, Java, Node.js
+
+**API Testing:** REST Assured, Postman, cy.api (Cypress plugin), JSON Schema Validation (AJV)
+
+**CI/CD and Reporting:** GitHub Actions, Jenkins, Mochawesome, ExtentReports
+
+**Test Data:** Faker.js, DataFaker (Java), dynamic fixture management
+
+**Tools:** Jira, Zephyr, Maven, MySQL, AWS, Git
 
 ![selenium](https://github.com/user-attachments/assets/b0f68cb1-0b27-42fa-80d3-0eba949f2ef0)
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -107,10 +97,88 @@ real state  - Import the .json files directly into your Postman app to see how I
 ## 🎯 Pinned Repositories
 
 ## [Certifications](https://github.com/Nara-B/Certificates.git)
+- ISTQB Foundation Level
+- AWS Cloud Practitioner
+- Google Data Analytics Certificate
+- Google AI Essentials
+
+---
+
 ## [Parabank-Selenium-Java-TestNG-Cucumber](https://github.com/Nara-Bayaraa/Parabank-Selenium-Java-TestNG-Cucumber)
+Hybrid BDD automation framework built in Java demonstrating enterprise-grade patterns.
+
+**Highlights:**
+
+- Cucumber Gherkin feature files with Step Definitions and Page Object Model
+- TestNG runner with ExtentReports integration
+- DataFaker for dynamic test data generation on every run
+- Properties file for environment configuration: baseUrl, browser, explicit wait
+- WebDriverManager for automatic driver management
+- Maven project structure with full dependency management
+
+---
 ## [Parabank-UI-Api-Cypress-JavaScript-Node.js Automation Testing](https://github.com/Nara-Bayaraa/Parabank-UI-Api-Automation.git)
+Full automation suite for a banking demo application covering user registration, login, account management, and fund transfers.
+
+**Highlights:**
+
+- JSON schema validation using AJV to verify API response structure
+- `cy.session` caching to avoid repeated login across tests and speed up execution
+- Positive and negative test cases for login, registration, and transaction flows
+- Custom commands and Page Object Model structure
+- GitHub Actions CI/CD pipeline with automated runs
+---
 ## [Swag-Labs UI Automation Testing](https://github.com/Nara-Bayaraa/Swag-Labs.git)
+Responsive cross-viewport test suite covering login, inventory browsing, cart management, product detail, checkout, and sidebar navigation.
+
+**Highlights:**
+
+- Viewport testing across desktop, mobile, and tablet screen sizes
+- Parallel test execution for faster CI runs
+- Modular test suites runnable independently by feature area
+- Mochawesome HTML report generation and merging
+- GitHub Actions CI with daily scheduled runs at 5:00 AM CST
+
+---
 ## [Real-Estate UI and API Automation Testing](https://github.com/Nara-Bayaraa/Real-Estate-Project.git)
+Framework-focused project demonstrating CI/CD and reporting best practices.
+
+**Highlights:**
+
+- True parallel execution using cypress-parallel across multiple spec files
+- Nightly automated CI/CD runs via GitHub Actions cron schedule
+- Mochawesome merge-and-generate reporting pipeline
+- Combined API and UI test coverage in one unified project
+
+---
 ## [Petstore-Api Automation Testing](https://github.com/Nara-Bayaraa/Petstore-Api-Automation-Cypress.git)
+Complete REST API test suite for the Petstore OpenAPI demo covering all three resource domains.
+
+**Highlights:**
+
+- Parallel CI/CD pipeline with three independent GitHub Actions jobs: Pets, Store, and Users
+- Full CRUD coverage: POST, GET, PUT, PATCH, DELETE operations
+- Each job runs, reports, and uploads artifacts independently
+- Mochawesome reporting per job with artifact upload
+
+---
 ## [Coding-Challenges JavaScript](https://github.com/Nara-Bayaraa/Coding-Challenges.git)
-  
+  Curated JavaScript solutions to coding problems commonly asked in QA automation interviews.
+
+**Topics covered:** sliding window, dynamic programming, array manipulation, string operations, object handling
+
+**Runnable locally with Node.js per challenge file.**
+
+---
+## How I Work
+
+Every framework I build follows these principles:
+
+- Tests are independent. Each test creates its own data and cleans it up in afterEach.
+- API and UI are used together. API handles setup and teardown; UI verifies the result.
+- CI/CD is not optional. Every project runs automatically on a schedule and on every push.
+- Test data is never hardcoded. Faker.js, DataFaker, and fixture files keep data fresh and realistic.
+- Assertions go deep. I assert status codes, response bodies, DOM text, input values, and network interceptors.
+
+---
+Happy testing. Let's ship quality software.
