@@ -1,34 +1,20 @@
 ![quote1](https://github.com/user-attachments/assets/5bdc6f5b-f804-4647-a8d2-66b75507c5be)
-# 👋 Hi, I'm Nara Bayaraa — QA Automation Engineer based in Chicago, IL
+# 👋 Hi, I'm Nara Bayaraa 
+## QA Automation Engineer based in Chicago, IL
 
 <img src="https://komarev.com/ghpvc/?username=Nara-B&color=green&style=flat-square" width="150">
 
 ---
-I build production-ready automation frameworks from scratch using Cypress, Selenium, Java, and JavaScript. My work covers end-to-end UI automation, REST API testing, mobile QA, CI/CD integration, and hybrid BDD frameworks.
+I build production-ready automation frameworks from scratch using Cypress, Selenium, Java, and JavaScript. My work covers end-to-end UI automation, REST API testing, mobile QA, CI/CD integration, and hybrid BDD frameworks. I also bring strong manual and exploratory testing skills, catching edge cases, visual inconsistencies, and usability issues that automation alone cannot find.
 
 I hold certifications in ISTQB, AWS Cloud Practitioner, Google Data Analytics, and Google AI Essentials.
 
 ## Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nara-bayaraa/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narab.qa@gmail.com)
-
-
-
----
-
-## 🌟 About This Portfolio
-
-Here you’ll find:
-- **Highlighted projects:** Automation frameworks, Coding challenges, API tests, and more.
-- **Code samples:** Real-world examples from professional and personal projects.
-- **Problem-solving approach:** A QA mindset focused on risk, coverage, and continuous improvement.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nara-bayaraa/)
 
 ---
 
-
-
-
----
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -76,11 +62,6 @@ Here you’ll find:
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 
 ---
-## 📊 GitHub Stats
-
-[![Nara-Bayaraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-Bayaraa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 ## 💻 Example of My Work
 - **Manual Test Cases**  
 
@@ -94,7 +75,7 @@ real state  - Import the .json files directly into your Postman app to see how I
 - **Test Documents**
 ---
 
-## 🎯 Pinned Repositories
+## Featured Projects
 
 ## [Certifications](https://github.com/Nara-B/Certificates.git)
 - ISTQB Foundation Level
@@ -181,4 +162,4 @@ Every framework I build follows these principles:
 - Assertions go deep. I assert status codes, response bodies, DOM text, input values, and network interceptors.
 
 ---
-Happy testing. Let's ship quality software.
+Happy testing 
