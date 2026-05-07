@@ -1,5 +1,5 @@
 ![quote1](https://github.com/user-attachments/assets/5bdc6f5b-f804-4647-a8d2-66b75507c5be)
-# 👋 Hi there, I'm Nara!
+# 👋 Hi, I'm Nara Bayaraa — QA Automation Engineer based in Chicago, IL
 
 <img src="https://komarev.com/ghpvc/?username=Nara-B&color=green&style=flat-square" width="150">
 
