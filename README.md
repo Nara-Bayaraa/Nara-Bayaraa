@@ -9,7 +9,8 @@ I build production-ready automation frameworks from scratch using Cypress, Selen
 
 I hold certifications in ISTQB, AWS Cloud Practitioner, Google Data Analytics, and Google AI Essentials.
 
-## Let’s Connect
+---
+## Connect with Me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narab.qa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nara-bayaraa/)
 
