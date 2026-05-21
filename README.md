@@ -76,7 +76,7 @@ I hold certifications in ISTQB, AWS Cloud Practitioner, Google Data Analytics, a
 - **Bug Reports**
   
 - **Postman Collection** 
-real state  - Import the .json files directly into your Postman app to see how I handle API testing.
+real Estate  - Import the .json files directly into your Postman app to see how I handle API testing.
   
 - **Test Documents**
 ---
