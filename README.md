@@ -90,6 +90,9 @@ real state  - Import the .json files directly into your Postman app to see how I
 - Google AI Essentials
 
 ---
+## [Ecommerce-Playwright-JavaScript-Automation](https://github.com/Nara-Bayaraa/playwright-ecommerce-automation.git)
+
+---
 
 ## [Parabank-Selenium-Java-TestNG-Cucumber](https://github.com/Nara-Bayaraa/Parabank-Selenium-Java-TestNG-Cucumber)
 Hybrid BDD automation framework built in Java demonstrating enterprise-grade patterns.
