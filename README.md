@@ -90,6 +90,10 @@ real Estate  - Import the .json files directly into your Postman app to see how 
 - Google AI Essentials
 
 ---
+
+## [Swag-Labs-Appium-iOS-Android-Automation](https://github.com/Nara-Bayaraa/appium-android-ios-automation.git)
+
+---
 ## [Ecommerce-Playwright-JavaScript-Automation](https://github.com/Nara-Bayaraa/playwright-ecommerce-automation.git)
 
 ---
