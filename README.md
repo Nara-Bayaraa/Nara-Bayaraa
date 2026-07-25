@@ -16,11 +16,7 @@ I hold certifications in ISTQB, AWS Cloud Practitioner, Google Data Analytics, a
 
 ---
 
-## Download my resume here
 
-[![Resume](https://img.shields.io/badge/Resume-008080?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1W1N3EBWG3cNzopn2L3OkEW2rM66m2IXM/view?usp=sharing)
-
----
 <!-- Snake Game Repo View -->
 
 <div align="center">
