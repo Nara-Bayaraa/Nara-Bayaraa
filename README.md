@@ -87,13 +87,6 @@ real Estate  - Import the .json files directly into your Postman app to see how 
 
 ---
 
-## [Swag-Labs-Appium-iOS-Android-Automation](https://github.com/Nara-Bayaraa/appium-android-ios-automation.git)
-
----
-## [Ecommerce-Playwright-JavaScript-Automation](https://github.com/Nara-Bayaraa/playwright-ecommerce-automation.git)
-
----
-
 ## [Parabank-Selenium-Java-TestNG-Cucumber](https://github.com/Nara-Bayaraa/Parabank-Selenium-Java-TestNG-Cucumber)
 Hybrid BDD automation framework built in Java demonstrating enterprise-grade patterns.
 
@@ -150,6 +143,13 @@ Complete REST API test suite for the Petstore OpenAPI demo covering all three re
 - Full CRUD coverage: POST, GET, PUT, PATCH, DELETE operations
 - Each job runs, reports, and uploads artifacts independently
 - Mochawesome reporting per job with artifact upload
+
+---
+## [Swag-Labs-Appium-iOS-Android-Automation](https://github.com/Nara-Bayaraa/appium-android-ios-automation.git)
+
+---
+## [Ecommerce-Playwright-JavaScript-Automation](https://github.com/Nara-Bayaraa/playwright-ecommerce-automation.git)
+
 
 ---
 ## [Coding-Challenges JavaScript](https://github.com/Nara-Bayaraa/Coding-Challenges.git)
